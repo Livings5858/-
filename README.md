@@ -6,7 +6,7 @@
 
 
 
-<img src="E:\资源\图片\00001.jpg" alt="示例图片" style="zoom:25%;" />
+![示例图片](https://github.com/Livings5858/voice/blob/master/01.png)
 
 ***
 
